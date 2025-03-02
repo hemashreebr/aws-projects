@@ -1,6 +1,6 @@
 # 🚀 Hema's Cloud & DevOps Journey  
 
-Hey there! I'm **Hema (Hemashree Balraj)**, an **Electrical & Electronics graduate** who's always been fascinated by the **core systems** that power our everyday applications. This curiosity led me into the world of **Cloud & DevOps**, where I’m now on a journey to become a **Cloud Solutions Architect** and help others navigate their cloud journeys.  
+Hey there! I'm **Hema (Hemashree Balraj)**, a **Master’s in Computer Science student at Clark University, Massachusetts (MA)**. I started as an **Electrical & Electronics graduate**, always fascinated by the **core systems** that power our daily applications. This curiosity led me into the world of **Cloud & DevOps**, where I’m now on a journey to become a **Cloud Solutions Architect** and help others navigate their cloud journeys.  
 
 ---
 
