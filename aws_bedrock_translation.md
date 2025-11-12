@@ -22,6 +22,11 @@ This project is a **translation assistant** powered by **AWS Bedrock** and **Str
 
 ---
 
+
+![Architecture](images/translatearch.png)
+
+---
+
 ## **Step-by-Step Setup**
 
 ### **1. Clone the Repository**
