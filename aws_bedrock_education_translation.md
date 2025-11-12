@@ -117,6 +117,7 @@ AWS-Educational-Assistant/
 
 ## Architecture
 
+
 ![Architecture](images/eductaion_translation.png)
 
 ---
