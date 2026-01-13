@@ -1,6 +1,3 @@
-Here’s the complete `README.md` in **one ready-to-use file** for your GitHub:
-
-````markdown
 # AWS Educational Assistant
 
 A friendly AI-powered assistant designed to help you learn and experiment with AWS services. Built with Python, Streamlit, and LangChain, this project allows you to interact with AWS knowledge bases locally.
@@ -138,10 +135,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Made with ❤️ by Hemashree Balraj
-
-```
-
----
-
-If you want, I can **also generate a ready `requirements.txt`** with all tested versions that match this setup, so anyone can install everything without errors. Do you want me to do that?
-```
